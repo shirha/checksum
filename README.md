@@ -6,11 +6,12 @@ https://github.com/Cyan4973/xxHash
 I used pyinstaller to make a Windows 10 xxhash64.exe inside the xxhash64.zip file.  
 https://pypi.org/project/xxhash/  
 
-You probably need to 'unblock' it after downloading the zip. 
+note: you probably need to 'unblock' it after downloading the zip. 
 
 The program options are:  
-  -l use append to create a log  
   -s sort the filenames descending by size  
+  -l use append to create a log  
+     note: you may want to delete the log before you re-run the program  
 
 # sample output
 ```
