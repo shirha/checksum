@@ -11,6 +11,8 @@ note: you probably need to 'unblock' it after downloading the zip.
 The program options are:  
 ```
   xxhash64.exe -l -s
+    -d'xx xxx' directory plus directory name: 'xxx xxx' 
+       note: expects single quotes whether blanks or not in name
     -s sort the filenames descending by size  
     -l use append to create a log  
        note: you may want to delete the log before you re-run the program  
