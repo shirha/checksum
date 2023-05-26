@@ -1,8 +1,10 @@
 # checksum
 
-`xxHash` is an Extremely fast Hash algorithm by Yann Collet and used by Wabbajack.
-I used pyinstaller to make a Win10 xxhash64.exe inside the xxhash64.zip file.
-You probably need to 'unblock' it after downloading the zip.
+`xxHash` is an Extremely fast Hash algorithm by Yann Collet and used by Wabbajack.  
+https://github.com/Cyan4973/xxHash  
+I used pyinstaller to make a Win10 xxhash64.exe inside the xxhash64.zip file.  
+https://pypi.org/project/xxhash/  
+You probably need to 'unblock' it after downloading the zip.  
 
 # sample output
 ```
