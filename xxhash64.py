@@ -1,6 +1,7 @@
 '''
 https://github.com/Cyan4973/xxHash
 https://pypi.org/project/xxhash/
+pyinstaller xxhash64.py -F --onefile
 '''
 import os
 import re
