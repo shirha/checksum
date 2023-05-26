@@ -18,10 +18,10 @@ The program options are:
 # sample output
 ```
 F:\Wabbajack\Downloads_Skyrim>xxhash64.exe -s
-.   
-26692bf09d2c365b Blackreach Sun-40045-1-4-1609918363.7z   
-.   
-33fe1f43a6a340f0 Chisel 1K-47534-1-0-1616687625.7z   
-...........   
-f51cfd431560f2c0 Northfires Windhelm-44099-1-1610046665.rar   
+...........
+f51cfd431560f2c0    1.0GB Northfires Windhelm-44099-1-1610046665.rar
+.
+33fe1f43a6a340f0    2.1MB Chisel 1K-47534-1-0-1616687625.7z
+.
+26692bf09d2c365b    2.1MB Blackreach Sun-40045-1-4-1609918363.7z
 ```
