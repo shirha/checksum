@@ -8,7 +8,7 @@ You probably need to 'unblock' it after downloading the zip.
 
 # sample output
 ```
-(base) F:\Wabbajack\Downloads_Skyrim>xxhash64.exe   
+F:\Wabbajack\Downloads_Skyrim>xxhash64.exe   
 .   
 26692bf09d2c365b Blackreach Sun-40045-1-4-1609918363.7z   
 .   
