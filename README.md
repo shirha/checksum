@@ -9,10 +9,12 @@ https://pypi.org/project/xxhash/
 note: you probably need to 'unblock' it after downloading the zip. 
 
 The program options are:  
-  -s sort the filenames descending by size  
-  -l use append to create a log  
-     note: you may want to delete the log before you re-run the program  
-
+```
+  xxhash64.exe -l -s
+    -s sort the filenames descending by size  
+    -l use append to create a log  
+       note: you may want to delete the log before you re-run the program  
+```
 # sample output
 ```
 F:\Wabbajack\Downloads_Skyrim>xxhash64.exe   
