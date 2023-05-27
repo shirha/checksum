@@ -25,3 +25,6 @@ f51cfd431560f2c0    1.0GB Northfires Windhelm-44099-1-1610046665.rar
 .
 26692bf09d2c365b    2.1MB Blackreach Sun-40045-1-4-1609918363.7z
 ```
+
+xxhash64.exe MD5 File Checksum is: cb166ba233fc4fd94626e59f67761b9b
+https://emn178.github.io/online-tools/md5_checksum.html
