@@ -6,6 +6,7 @@ https://github.com/Cyan4973/xxHash
 I used pyinstaller to make a Windows 10 xxhash64.exe inside the xxhash64.zip file.  
 https://pypi.org/project/xxhash/  
 
+Just place `xxhash64.exe` in same directory with the downloaded archives then run it.  
 note: you probably need to '[unblock](unblock.jpg)' it after downloading the zip. 
 
 The program options are:  
@@ -28,6 +29,7 @@ f51cfd431560f2c0    1.0GB Northfires Windhelm-44099-1-1610046665.rar
 
 xxhash64.exe MD5 File Checksum is: cb166ba233fc4fd94626e59f67761b9b  
 https://emn178.github.io/online-tools/md5_checksum.html  
+
 
 ![unblock](unblock.jpg)
 
