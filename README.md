@@ -7,7 +7,7 @@ I used pyinstaller to make a Windows 10 xxhash64.exe inside the xxhash64.zip fil
 https://pypi.org/project/xxhash/  
 
 Just place `xxhash64.exe` in same directory with the downloaded archives then run it.  
-note: you probably need to '[unblock](unblock.jpg)' it after extracting from the zip. 
+note: you probably need to '[unblock](unblock.jpg)' it after extracting it from the zip. 
 
 The program options are:  
 ```
